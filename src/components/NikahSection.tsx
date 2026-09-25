@@ -57,7 +57,7 @@ export const NikahSection: React.FC = () => {
           <div className="absolute inset-0 bg-gradient-to-t from-[#04140f] via-black/30 to-transparent" />
           <div className="absolute bottom-4 inset-x-4 text-center">
             <span className="font-cinzel text-xs uppercase tracking-widest text-[#cca052] bg-[#04140f]/80 px-3 py-1 rounded-full border border-[#cca052]/40">
-              Ceremonial Palace Pavilion
+              HSR Shadi Mahal
             </span>
           </div>
         </div>
