@@ -164,7 +164,7 @@ export const Envelope3D: React.FC<Envelope3DProps> = ({
         onClick={triggerOpen}
         role="button"
         tabIndex={0}
-        aria-label="Open royal wedding invitation"
+        aria-label="Open wedding invitation"
         onKeyDown={(e) => {
           if (e.key === 'Enter' || e.key === ' ') {
             triggerOpen();

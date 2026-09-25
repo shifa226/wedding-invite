@@ -29,7 +29,7 @@ export const Navigation: React.FC<NavigationProps> = ({ onReopenEnvelope }) => {
         >
           <span>{weddingData.couple.monogram}</span>
           <span className="text-[#cca052] font-normal text-xs tracking-widest hidden sm:inline">
-            · ROYAL WEDDING
+            
           </span>
         </a>
 
